@@ -8,7 +8,7 @@ I am Vignesh, a computer science and public policy graduate student pursuing my 
 - 📫 How to reach me: [vigneshv92](https://www.linkedin.com/in/vigneshv92/) on LinkedIn
 
 ### Selected Projects:
-*The repos without a corresponding hyperlinks are private, in accordance with UChicago's academic intergrity rules. They can be shared with prospective employers upon request.*
+*The repos without corresponding hyperlinks are private, in accordance with UChicago's academic intergrity rules. They can be shared with prospective employers upon request.*
 
 - [Big Data Movie Recommendation Web-App](https://github.com/v4vigtory/Big-Data-Movie-Recommendation-App)
 - [Hyperlocal Air Quality Prediction in Houston neighborhoods](https://github.com/v4vigtory/Hyperlocal-Air-Quality-Prediction-in-Houston-neighborhoods)
