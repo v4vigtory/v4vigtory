@@ -16,7 +16,7 @@ I am Vignesh, a computer science and public policy graduate student pursuing my 
 - 🌾 [Analyzing Farming Practices in Midwest United States](https://github.com/v4vigtory/Analyzing-Farming-Practices-in-Midwest-United-States)
 - 📞 [Chicago 311 Service Mapping](https://github.com/v4vigtory/Chicago-311-Service-Mapping)
 - 🧬 Gene Annotation Service REST API with functionaltiy to upload, annotate, notify, archive and restore from AWS cloud
-- http://i.imgur.com/wWzX9uB.png Analyzing political tweets using TF-IDF and Markov Models
+- 💬 Analyzing political tweets using TF-IDF and Markov Models
 - 🎓 Course Search Engine using SQLite3 and Web Scraping (beautfiulsoup)
 
 <!--
