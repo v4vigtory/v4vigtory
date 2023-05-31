@@ -10,13 +10,14 @@ I am Vignesh, a computer science and public policy graduate student pursuing my 
 ### Selected Projects:
 *The repos without corresponding hyperlinks are private, in accordance with UChicago's academic intergrity rules. They can be shared with prospective employers upon request.*
 
-- [Big Data Movie Recommendation Web-App](https://github.com/v4vigtory/Big-Data-Movie-Recommendation-App)
-- [Hyperlocal Air Quality Prediction in Houston neighborhoods](https://github.com/v4vigtory/Hyperlocal-Air-Quality-Prediction-in-Houston-neighborhoods)
-- [Analyzing Farming Practices in Midwest United States](https://github.com/v4vigtory/Analyzing-Farming-Practices-in-Midwest-United-States)
-- [Chicago 311 Service Mapping](https://github.com/v4vigtory/Chicago-311-Service-Mapping)
-- Gene Annotation Service REST API with functionaltiy to upload, annotate, notify, archive and restore from AWS cloud
-- Analyzing political tweets using TF-IDF and Markov Models
-- Course Search Engine using SQLite3 and Web Scraping (beautfiulsoup)
+- 🚕 [Assessing Effect of COVID-19 on Chicago Taxi rides](https://github.com/v4vigtory/Impact-of-COVID-19-on-Chicago-Taxi-rides)
+- 🍿 [Big Data Movie Recommendation Web-App](https://github.com/v4vigtory/Big-Data-Movie-Recommendation-App)
+- 😷 [Hyperlocal Air Quality Prediction in Houston neighborhoods](https://github.com/v4vigtory/Hyperlocal-Air-Quality-Prediction-in-Houston-neighborhoods)
+- 🌾 [Analyzing Farming Practices in Midwest United States](https://github.com/v4vigtory/Analyzing-Farming-Practices-in-Midwest-United-States)
+- 📞 [Chicago 311 Service Mapping](https://github.com/v4vigtory/Chicago-311-Service-Mapping)
+- 🧬 Gene Annotation Service REST API with functionaltiy to upload, annotate, notify, archive and restore from AWS cloud
+- http://i.imgur.com/wWzX9uB.png Analyzing political tweets using TF-IDF and Markov Models
+- 🎓 Course Search Engine using SQLite3 and Web Scraping (beautfiulsoup)
 
 <!--
 **v4vigtory/v4vigtory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
