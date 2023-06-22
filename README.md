@@ -3,8 +3,8 @@
 I am Vignesh, a computer science and public policy graduate student pursuing my Master's in Computational Analysis and Public Policy ([MSCAPP](https://capp.uchicago.edu/)) at University of Chicago's Harris School of Public Policy. My interests lie in Civic Tech, tech-enabled Governance and Public Service Delivery at scale. Last summer, I interned as a Data Analyst at the Geospatial Information Office, Athens-Clarke County government, Georgia. Previously I worked as a Decision Scietist, and later an Apprentice leader at [Mu Sigma](https://www.mu-sigma.com/), a pureplay data science consulting firm based out of Bangalore, India, helping Fortune 50 clients in data-driven making.
 
 - 🌱 I’m currently learning:
-  - Large Scale Parallel Computing using MPI, Spark and Dask
-  - GIS Spatial Data Analysis on QGIS and R
+  - AWS Tools to secure the AWS Solution Architect Associate certification
+  - GDAL to work with vector and raster geospatial data
 - 📫 How to reach me: [vigneshv92](https://www.linkedin.com/in/vigneshv92/) on LinkedIn
 
 ### Selected Projects:
